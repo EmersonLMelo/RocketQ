@@ -4,3 +4,4 @@
  - Para iniciar o arquivo no VScode instalar os modulos do node com 'NPM install'
  - E para iniciar, digite no terminal 'npm start'
  - Assim na sua porta local '3000' o arquivo estara aberto
+ - - - - - - - -
